@@ -8,6 +8,10 @@ lecture04/*.jpg
 lecture04/*.pdf
 lecture04/*.png
 lecture04/*.svg
+scripts/*
+me239venv/*
+requirements.txt
+
 
 .DS_Store
 # Byte-compiled / optimized / DLL files
